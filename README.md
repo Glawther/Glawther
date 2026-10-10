@@ -1,17 +1,31 @@
-<img width=100%  src="https://capsule-render.vercel.app/api?type=waving&color=#9400D3&height=120&section=header"/>
+# Glawther Soares
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Glawther+Soares;I'm+22+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Desenvolvedor de software no Brasil, formado em Desenvolvimento de Sistemas.
+Construo aplicações web em Python e JavaScript, com interesse especial em projetos que
+transformam dados em decisões: modelos de machine learning explicáveis, painéis e automações.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Glawther&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+## Projetos em destaque
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Glawther&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FF00FF&bg_color=0d1117" alt="Glawther github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glawther&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF00FF&bg_color=0d1117" />
-</div>
+| Projeto | O que é | Tecnologias |
+| --- | --- | --- |
+| [Nexus CRM](https://github.com/Glawther/nexus-crm) | Plataforma de gestão de clientes e vendas, com backend modular, captura de leads por webhook e implantação em contêiner | JavaScript, Node.js, Firebase, Docker |
+| [Classificador de Risco de Crédito](https://github.com/Glawther/classificardor_risco) | Modelo que classifica o risco de crédito e mostra, em uma árvore de decisão, o caminho que levou à resposta | Python, Flask, scikit-learn, Graphviz |
+| [Previsão de Preços de Ações](https://github.com/Glawther/Preditor_de_valor) | Painel com modelo de regressão que se retreina sozinho e registra cada versão treinada | Python, Flask, scikit-learn, MLflow, Chart.js |
+| [Monitor de Humor](https://github.com/Glawther/Monitor_de_humor) | Aplicação com login para registrar o humor do dia e acompanhar a evolução em gráficos | Python, Flask, SQLAlchemy, Chart.js |
+| [Calendário de Aventuras](https://github.com/Glawther/calendario-aventuras-react) | Aplicação para planejar e filtrar atividades, com login e publicação automática | React, Vite, Firebase, GitHub Actions |
+| [Mensagens do Amor](https://github.com/Glawther/mensagensdoamor) | Aplicação web para celular que sorteia mensagens e registra reações sem recarregar a página | Python, Django, PostgreSQL |
 
-<div align="center"> 
-<a href="https://www.instagram.com/glawthers/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:glawthers@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+Em desenvolvimento: **Radar de Preços**, um comparador que consulta mais de 30 lojas brasileiras
+e avisa quando o preço de um produto cai (Python, Streamlit, SQLite).
+
+## Com o que trabalho
+
+- **Linguagens:** Python, JavaScript, HTML e CSS
+- **Web:** Flask, Django, React, Node.js, Streamlit
+- **Dados e machine learning:** pandas, scikit-learn, MLflow
+- **Banco de dados e infraestrutura:** SQLite, PostgreSQL, Firebase, Docker, GitHub Actions
+
+## Contato
+
+- E-mail: [glawthers@gmail.com](mailto:glawthers@gmail.com)
+- Instagram: [@glawthers](https://www.instagram.com/glawthers/)

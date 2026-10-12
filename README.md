@@ -34,7 +34,7 @@ Atualmente mantenho o [Dark_print](https://github.com/Glawther/Dark_print), uma 
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glawther&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Glawther&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" alt="Estatísticas do GitHub" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glawther&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens mais utilizadas" height="165" />
 </p>
 

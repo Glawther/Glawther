@@ -3,7 +3,7 @@
 Desenvolvedor de software no Brasil, formado em Desenvolvimento de Sistemas.
 Trabalho principalmente com Python e JavaScript em ferramentas de vídeo, extração de dados na web, APIs REST e modelos de classificação e regressão.
 
-Nos últimos meses venho trabalhando no [Dark_print](https://github.com/Glawther/Dark_print), no [CrawlMesh](https://github.com/Glawther/CrawlMesh) e no [FraudGuard](https://github.com/Glawther/FraudGuard).
+Nos últimos meses venho trabalhando no [Dark_print](https://github.com/Glawther/Dark_print), no [CrawlMesh](https://github.com/Glawther/CrawlMesh), no [FraudGuard](https://github.com/Glawther/FraudGuard) e no [NutriScan](https://github.com/Glawther/NutriScan).
 
 ---
 
@@ -11,6 +11,7 @@ Nos últimos meses venho trabalhando no [Dark_print](https://github.com/Glawther
 
 | Projeto | O que faz | Tecnologias |
 | :--- | :--- | :--- |
+| [NutriScan](https://github.com/Glawther/NutriScan) | Consulta de alimentos por código EAN-13 no Open Food Facts com verificação dos limites da ANVISA (RDC 429/2020), classificação NOVA, Nutri-Score e tradução de aditivos. | Python, FastAPI, HTTPX, SQLite, Docker |
 | [FraudGuard](https://github.com/Glawther/FraudGuard) | API que avalia risco de transações PIX e cartão consultando dados de BIN, reputação de IP/ASN, cotação de câmbio e pesos de cada regra. | Python, FastAPI, HTTPX, SQLite, PostgreSQL, Redis, Docker |
 | [CrawlMesh](https://github.com/Glawther/CrawlMesh) | Extrator de páginas web que converte HTML em Markdown, acompanha variações de preço e controla limite de requisições e troca de proxies por domínio. | Python, FastAPI, HTTPX, BeautifulSoup4, Redis, PostgreSQL, Docker |
 | [Dark_print](https://github.com/Glawther/Dark_print) | Gerador de vídeos verticais para Shorts, TikTok e Reels com locução em português, busca de mídia em domínio público, efeitos sonoros e legendas sincronizadas. | Python, FastAPI, MoviePy, FFmpeg |

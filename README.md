@@ -11,7 +11,7 @@ Nos últimos meses venho trabalhando no [Dark_print](https://github.com/Glawther
 
 | Projeto | O que faz | Tecnologias |
 | :--- | :--- | :--- |
-| [NutriScan](https://github.com/Glawther/NutriScan) | Controle de limite diário de dieta, leitor de foto de ficha técnica nutricional por câmera, regras da ANVISA (RDC 429/2020) e aplicativo Android (.apk). | Python, FastAPI, Kotlin, Android, SQLite, Docker |
+| [NutriScan](https://github.com/Glawther/NutriScan) | Dieta diária, visão computacional de prato offline, micronutrientes (TACO/ANVISA), leitor de ficha técnica e aplicativo Android (.apk). | Python, FastAPI, Kotlin, Android, SQLite, Docker |
 | [FraudGuard](https://github.com/Glawther/FraudGuard) | API que avalia risco de transações PIX e cartão consultando dados de BIN, reputação de IP/ASN, cotação de câmbio e pesos de cada regra. | Python, FastAPI, HTTPX, SQLite, PostgreSQL, Redis, Docker |
 | [CrawlMesh](https://github.com/Glawther/CrawlMesh) | Extrator de páginas web que converte HTML em Markdown, acompanha variações de preço e controla limite de requisições e troca de proxies por domínio. | Python, FastAPI, HTTPX, BeautifulSoup4, Redis, PostgreSQL, Docker |
 | [Dark_print](https://github.com/Glawther/Dark_print) | Gerador de vídeos verticais para Shorts, TikTok e Reels com locução em português, busca de mídia em domínio público, efeitos sonoros e legendas sincronizadas. | Python, FastAPI, MoviePy, FFmpeg |
